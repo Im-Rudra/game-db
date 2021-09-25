@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Grand Theft Auto V",
+    "img": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait%20Store%20Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg?h=854&resize=1&w=640",
+    "price": 24.99,
+    "genres": ["Action", "Adventure", "Open World"],
+    "features": ["Co-op", "Single Player"],
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "release": "Sep 17, 2013",
+    "platform": "Windows"
+  },
+  {
+    "name": "Red Dead Redemption 2",
+    "img": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic%20Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg?h=854&resize=1&w=640",
+    "price": 44.99,
+    "genres": ["Action", "Narration", "Open World"],
+    "features": ["Single Player"],
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "release": "Nov 5, 2019",
+    "platform": "Windows"
+  },
+  {
+    "name": "Ghost Recon Breakpoint",
+    "img": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/BREAKPOINT_STANDARD_BREAKPOINT_STANDARD_EPIC_Store_Portrait_1200x1600_L-1200x1600-bd6073c4c9d1749d1fd6ec15e6090b72.jpg?h=854&resize=1&w=640",
+    "price": 56.69,
+    "genres": ["Shooter", "Open World"],
+    "features": ["Co-op", "Single Player", "Controller Support"],
+    "developer": "Ubisoft Paris",
+    "publisher": "Ubisoft",
+    "release": "Oct 4, 2019",
+    "platform": "Windows"
+  },
+  {
+    "name": "Tom Clancy's Ghost Recon Wildlands",
+    "img": "https://cdn1.epicgames.com/epic/offer/GhostReconWildlands_PortraitPromo-974x1080-a1bf09c22e6c1fbdf69b52bc3e4d05a7.jpg?h=854&resize=1&w=640",
+    "price": 47.99,
+    "genres": ["Open World", "Shooter"],
+    "features": ["Co-op", "Single Player", "Controller Support"],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release": "Mar 7, 2017",
+    "platform": "Windows"
+  },
+  {
+    "name": "Tom Clancy's Division 2",
+    "img": "https://cdn1.epicgames.com/03ecca4e19a9483aa05b3d99948c43ce/offer/GameName_Store_Portrait_1280x1420-1200x1600-b54d20f47116aa3b5fbfa6b709d91d38.jpg?h=854&resize=1&w=640",
+    "price": 29.99,
+    "genres": ["Action", "RPG"],
+    "features": ["Multi Player"],
+    "developer": "Massive Entertainment",
+    "publisher": "Ubisoft",
+    "release": "Mar 8, 2016",
+    "platform": "Windows"
+  },
+  {
+    "name": "Far Cry 3",
+    "img": "https://cdn1.epicgames.com/undefined/offer/S2-FAR-CRY-3-1280x1440-e6b5b5e28005a93a580179c7e4342247.jpg?h=854&resize=1&w=640",
+    "price": 19.99,
+    "genres": ["Open World", "Shooter", "Action", "Adventure", "First Person"],
+    "features": ["Co-op", "Single Player"],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release": "Nov 29, 2012",
+    "platform": "Windows"
+  },
+  {
+    "name": "Far Cry 5",
+    "img": "https://cdn1.epicgames.com/undefined/offer/FarCry5_Portrait-1280x1440-1ef85983bb8e3b9d9501e31d0068abdf.jpg?h=854&resize=1&w=640",
+    "price": 59.99,
+    "genres": ["Open World", "Shooter", "Action", "Adventure"],
+    "features": ["Co-op", "Single Player"],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release": "Mar 27, 2018",
+    "platform": "Windows"
+  },
+  {
+    "name": "Far Cry New Dawn",
+    "img": "https://cdn1.epicgames.com/epic/offer/S2-FAR-CRY-ND-1280x1440-56f859f37b378e97f4a9de08c70bd9ca.jpg?h=854&resize=1&w=640",
+    "price": 39.99,
+    "genres": ["Open World", "Shooter", "Action", "First Person"],
+    "features": ["Co-op", "Single Player"],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release": "Feb 15, 2019",
+    "platform": "Windows"
+  },
+  {
+    "name": "Assassin’s Creed Rogue",
+    "img": "https://cdn1.epicgames.com/epic/offer/ACRG_Store_Portrait_1280x1420-1280x1420-5cba5dab889312a3ee8e0cb414f1ebaa.png?h=854&resize=1&w=640",
+    "price": 59.99,
+    "genres": ["Action", "RPG"],
+    "features": ["Single Player", "Controller Support"],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release": "Nov 11, 2014",
+    "platform": "Windows"
+  },
+  {
+    "name": "Assassin's Creed Valhalla",
+    "img": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC%20KINGDOM%20PREORDER_STANDARD%20EDITION_EPIC_Key_Art_Portrait_640x854-640x854-288120c5573756cb988b6c1968cebd86.png?h=854&resize=1&w=640",
+    "price": 59.99,
+    "genres": ["Action", "RPG", "Open World"],
+    "features": ["Single Player", "Controller Support"],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release": "Nov 10, 2020",
+    "platform": "Windows"
+  },
+  {
+    "name": "World War Z",
+    "img": "https://cdn1.epicgames.com/salesEvent/salesEvent/wwzAfterTall_1200x1600-b7b0af3e21961a57059ec4a3019e57fb?h=854&resize=1&w=640",
+    "price": 15.99,
+    "genres": ["Action", "Survival", "Shooter"],
+    "features": ["Co-op", "Single Player", "Controller Support"],
+    "developer": "Saber Interactive",
+    "publisher": "Saber Interactive",
+    "release": "Sep 24, 2021",
+    "platform": "Windows"
+  }
+]
