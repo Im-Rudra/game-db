@@ -96,6 +96,18 @@
     "platform": "Windows"
   },
   {
+    "id": "688644698",
+    "name": "Assassin’s Creed Origins",
+    "img": "https://cdn1.epicgames.com/undefined/offer/S2_ACOD-1280x1440-621a727d381ffe0cffe869c1e23bc741.jpg?h=854&resize=1&w=640",
+    "price": 59.99,
+    "genres": ["Action", "Open World", "Adventure"],
+    "features": ["Single Player", "Controller Support"],
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "release": "Oct 27, 2017",
+    "platform": "Windows"
+  },
+  {
     "id": "688794698",
     "name": "Assassin’s Creed Rogue",
     "img": "https://cdn1.epicgames.com/epic/offer/ACRG_Store_Portrait_1280x1420-1280x1420-5cba5dab889312a3ee8e0cb414f1ebaa.png?h=854&resize=1&w=640",
