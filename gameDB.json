@@ -72,6 +72,18 @@
     "platform": "Windows"
   },
   {
+    "id": "165794828",
+    "name": "Far Cry 4",
+    "img": "https://cdn1.epicgames.com/epic/offer/FarCry4_S2-BANNER-1280x1440-1280x1440-7f5a58952620e42b2b72eb884acf7713.png?h=854&resize=1&w=640",
+    "price": 29.99,
+    "genres": ["Open World", "Shooter", "Action", "Adventure", "First Person"],
+    "features": ["Single Player"],
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "release": "Nov 18, 2014",
+    "platform": "Windows"
+  },
+  {
     "id": "106763258",
     "name": "Far Cry 5",
     "img": "https://cdn1.epicgames.com/undefined/offer/FarCry5_Portrait-1280x1440-1ef85983bb8e3b9d9501e31d0068abdf.jpg?h=854&resize=1&w=640",
@@ -135,7 +147,7 @@
     "id": "198791265",
     "name": "The Witcher 3: Wild Hunt",
     "img": "https://cdn1.epicgames.com/14ee004dadc142faaaece5a6270fb628/offer/EGS_TheWitcher3WildHuntGameoftheYear_CDPROJEKTRED_S2-1200x1600-d887e1b749d11e8876996227e4de5c89.jpg?h=854&resize=1&w=640",
-    "price": 59.99,
+    "price": 49.96,
     "genres": ["Adventure", "RPG", "Open World"],
     "features": ["Single Player"],
     "developer": "CD PROJEKT RED",
