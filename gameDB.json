@@ -132,6 +132,18 @@
     "platform": "Windows"
   },
   {
+    "id": "198791265",
+    "name": "The Witcher 3: Wild Hunt",
+    "img": "https://cdn1.epicgames.com/14ee004dadc142faaaece5a6270fb628/offer/EGS_TheWitcher3WildHuntGameoftheYear_CDPROJEKTRED_S2-1200x1600-d887e1b749d11e8876996227e4de5c89.jpg?h=854&resize=1&w=640",
+    "price": 59.99,
+    "genres": ["Adventure", "RPG", "Open World"],
+    "features": ["Single Player"],
+    "developer": "CD PROJEKT RED",
+    "publisher": "CD PROJEKT S.A.",
+    "release": "May 13, 2015",
+    "platform": "Windows"
+  },
+  {
     "id": "852794568",
     "name": "World War Z",
     "img": "https://cdn1.epicgames.com/salesEvent/salesEvent/wwzAfterTall_1200x1600-b7b0af3e21961a57059ec4a3019e57fb?h=854&resize=1&w=640",
